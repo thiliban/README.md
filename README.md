@@ -11,3 +11,4 @@ function(isHungry, isAvaliable) {
     console.log("Hungry is: ", isHungry);
     console.log("Avaliable time is: ", isAvaliable);
 }
+```
